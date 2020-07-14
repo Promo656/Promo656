@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div>It's my profile</div>
+<h1>It's my profile</h1>
 
 **Promo656/Promo656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
