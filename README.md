@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=promo656" alt="promo656" /> </p>
 
-- 🔭 I’m currently working on **Own project**
+- 🔭 I’m currently working on **Social network, Todo list**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, Typescript, JavaScript**
 
 - 📫 How to reach me **egormarkov1408@gmail.com**
 
