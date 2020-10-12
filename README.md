@@ -14,3 +14,5 @@
 <p align="center">
 <a href="https://instagram.com/pstnov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@pstnov" height="20" width="20" /></a>
 </p>
+
+<p>https://www.codewars.com/users/Promo656/badges/micro</p>
